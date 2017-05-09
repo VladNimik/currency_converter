@@ -64,7 +64,7 @@ currency_converter.py --amount 100 --i £ -o EUR
 }
 ```
 ```
-./currency_converter.py --amount 100 --input_currency $
+./currency_converter.py --amount 100 --input_currency £
 {
     "input": {
         "amount": 100.0,
